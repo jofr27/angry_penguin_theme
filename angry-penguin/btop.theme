@@ -1,0 +1,6 @@
+theme[main_bg]="#140a05"
+theme[main_fg]="#ffccaa"
+theme[title]="#ff5500"
+theme[cpu_start]="#ff2200"
+theme[cpu_mid]="#ff5500"
+theme[cpu_end]="#ffaa00"

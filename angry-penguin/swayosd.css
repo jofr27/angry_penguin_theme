@@ -1,0 +1,9 @@
+window {
+    background: #121218;
+    border: 2px solid #ff3c00;
+    border-radius: 12px;
+}
+
+progress {
+    background: #ff3c00;
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+ <defs>
+  <linearGradient id="lavaGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+   <stop offset="0%" stop-color="#ffb300"/>
+   <stop offset="50%" stop-color="#ff6a00"/>
+   <stop offset="100%" stop-color="#ff3c00"/>
+  </linearGradient>
+ </defs>
+
+ <path opacity="0.2" d="M5 2.5c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h14c.554 0 1-.446 1-1V8.5L14.5 8 14 2.5z"/>
+ <path fill="#1a1a1a" d="M5 2c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h14c.554 0 1-.446 1-1V8L14.5 7.5 14 2z"/>
+ <path fill="url(#lavaGrad)" d="M14 2v5c0 .552.448 1 1 1h5z"/>
+ <rect x="8" y="17" width="5" height="1" fill="#ff6a00"/>
+ <rect x="8" y="15" width="8" height="1" fill="#ffb300"/>
+ <rect x="8" y="13" width="8" height="1" fill="#ff6a00"/>
+ <rect x="8" y="11" width="8" height="1" fill="#ff3c00"/>
+</svg>
