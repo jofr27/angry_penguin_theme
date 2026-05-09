@@ -6,7 +6,7 @@ A bold, aggressive, and clean theme for **Omarchy + Hyprland** featuring custom 
 <table>
   <tr>
     <td><img src="screenshots/angry_penguin3.png" width="400"/></td>
-    <td><img src="screenshots/screenshot-2026.png" width="400"/></td>
+    <td><img src="screenshots/preview.png" width="400"/></td>
   </tr>
 </table>
 
