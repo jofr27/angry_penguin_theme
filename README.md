@@ -13,7 +13,7 @@ A bold, aggressive, and clean theme for **Omarchy + Hyprland** featuring custom 
 ## 📦 Manual Install
 
 ```bash
-git clone git@github.com:jofr27/Angry_Penguin.git
+git clone git@github.com:username/Angry_Penguin.git
 cd Angry_Penguin
 chmod +x install.sh
 ./install.sh
